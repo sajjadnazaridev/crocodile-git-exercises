@@ -13,11 +13,11 @@ This project includes an index.html file that each member of the group has made 
  - Each team member has added a dedicated paragraph:
  - **Mani**: `<p>This code created by Mani</p>`
  - **Kourosh**: `<p>this code created by kourosh</p>`
- - **Sajjad**: ``<p>hello guten tag</p>`
+ - **Sajjad**: `<p>hello guten tag</p>`
 
 ## How to participate
 
 1. **Clone the repository**
  ```bash
  git clone https://github.com/your-username/exercises-git-crocodile.git
- cd exercises-git-crocodile```
+ cd exercises-git-crocodile
